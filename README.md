@@ -1,9 +1,8 @@
-# automobile-crash-insurance-severity
-Analysis of fatal crash outcomes and private-auto insurance claim severity using statistical analysis and machine learning.
-
 # Automobile Crash Risk & Insurance Claim Severity
 
-Analysis of U.S. fatal crash outcomes and private-auto insurance claim severity using statistical analysis and machine learning.
+**Statistical Analysis | Machine Learning | Python**
+
+This project examines automobile risk from two perspectives: U.S. fatal crash outcomes and private-auto insurance claim severity. Using two independent datasets, the analysis explores patterns associated with crash outcomes and insurance claims.
 
 ## Project Overview
 
