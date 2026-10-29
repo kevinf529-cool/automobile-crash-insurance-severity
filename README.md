@@ -186,6 +186,20 @@ Several limitations are important when interpreting the results:
 - Chi-Square Analysis
 - Cramér's V
 
+## Project Notebook
+
+[View the Complete Python Analysis](automobile_crash_insurance_analysis.ipynb)
+
+The notebook contains the data preparation, exploratory analysis, statistical testing, predictive modeling, and evaluation for both the FARS crash analysis and private-auto insurance claim analysis.
+
+## Reproducibility
+
+The FARS portion of the notebook requires the original `FARS2024NationalCSV.zip` dataset.
+
+The analysis uses separate datasets for crash outcomes and insurance claim severity. These datasets are not combined.
+
+The repository includes the analysis notebook, but the source datasets must be obtained separately before the complete analysis can be rerun.
+
 ## Repository Structure
 
 ```text
